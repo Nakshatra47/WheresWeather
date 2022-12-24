@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WheresWeather/static/css/main.4692f9f6.chunk.css",
+    "main.js": "/WheresWeather/static/js/main.4312040e.chunk.js",
+    "main.js.map": "/WheresWeather/static/js/main.4312040e.chunk.js.map",
+    "runtime-main.js": "/WheresWeather/static/js/runtime-main.8dcaa40d.js",
+    "runtime-main.js.map": "/WheresWeather/static/js/runtime-main.8dcaa40d.js.map",
+    "static/js/2.e07211de.chunk.js": "/WheresWeather/static/js/2.e07211de.chunk.js",
+    "static/js/2.e07211de.chunk.js.map": "/WheresWeather/static/js/2.e07211de.chunk.js.map",
+    "index.html": "/WheresWeather/index.html",
+    "precache-manifest.2d5183d589734373dd148a3ae790672d.js": "/WheresWeather/precache-manifest.2d5183d589734373dd148a3ae790672d.js",
+    "service-worker.js": "/WheresWeather/service-worker.js",
+    "static/css/main.4692f9f6.chunk.css.map": "/WheresWeather/static/css/main.4692f9f6.chunk.css.map",
+    "static/js/2.e07211de.chunk.js.LICENSE.txt": "/WheresWeather/static/js/2.e07211de.chunk.js.LICENSE.txt",
+    "static/js/main.4312040e.chunk.js.LICENSE.txt": "/WheresWeather/static/js/main.4312040e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WheresWeather/static/media/weather-forecast-background.f0cd1530.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dcaa40d.js",
+    "static/js/2.e07211de.chunk.js",
+    "static/css/main.4692f9f6.chunk.css",
+    "static/js/main.4312040e.chunk.js"
+  ]
+}
