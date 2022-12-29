@@ -2,7 +2,7 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "homepage": "http://Nakshatra47.github.io/WheresWeather",
-  "private": true,
+  "private": true,    
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
